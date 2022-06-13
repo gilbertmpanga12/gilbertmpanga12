@@ -6,9 +6,9 @@ I'm passionate about healthcare (oncology) & I hope to work in it one day.
 
 ### Anything else 🥸
 
-✝ Servant of Jesus Christ
-🦄 Indie Hacker | Founder
-📕 [Writer](https://medium.com/@gilbertmpanga.gm)
+- ✝ Servant of Jesus Christ
+- 🦄 Indie Hacker | Founder
+- 📕 [Writer](https://medium.com/@gilbertmpanga.gm)
 
 ### Link to my portfolio 👇
 [gilbertmpanga](https://gilbertmpanga.com)
