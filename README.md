@@ -1,14 +1,7 @@
-## Hi there, I'm Gilbert and I use code to fix every-day business problems.👋
+### Hi there 👋🏻
 
-### My toolbox
-- Javascript (Mostly ✅)
-- React ✅
-- React Native ✅
-- Node.js
+I'm Gilbert and I use code to build unicorns, ship amazing products,
+fix healthcare and among other things 🔬🧠🦄.
 
-### Others 😜
-- Dart / Flutter 
-- Angular
-
-## Link to my portfolio
+### Link to my portfolio 👇
 [gilbertmpanga](https://gilbertmpanga.com)
