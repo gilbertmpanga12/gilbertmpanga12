@@ -1,4 +1,4 @@
-## Hi there, I build amazing products with code 👋
+## Hi there, I'm Gilbert and I use code to fix every-day business problems.👋
 
 ### My toolbox
 - Javascript (Mostly ✅)
