@@ -4,8 +4,9 @@
 - Javascript (Mostly ✅)
 - React ✅
 - React Native ✅
-- 
-### I abandoned working with these don't get mad 😜
+- Node.js
+
+### Others 😜
 - Dart / Flutter 
 - Angular
 
